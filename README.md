@@ -2,4 +2,4 @@
 
 <h2>National Research University Higher School of Economics</h2>
 
-[NOTE] These notebooks are meant only for reference and not for copy pasting the Solution.
+These notebooks are meant <strong>for reference</strong> and <strong>not for copy pasting</strong> the Solution
